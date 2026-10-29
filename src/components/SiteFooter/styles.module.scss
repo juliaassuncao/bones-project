@@ -1,0 +1,6 @@
+.footer { border-top: 1px solid var(--border); background: var(--background-deep); padding: 4rem 0 1.8rem; }
+.top { display: flex; justify-content: space-between; gap: 2rem; padding-bottom: 3.5rem; p { font-family: var(--serif); font-size: 1.45rem; color: var(--muted); margin: .5rem 0 0; } }
+.title { font: 500 4.5rem/.9 var(--serif); letter-spacing: -.055em; span{color:var(--accent)} }
+.links { display:flex; flex-direction:column; gap:.9rem; font-size:.83rem; color: var(--bone); a {display:flex;align-items:center;gap:.35rem;&:hover{color:var(--accent)}} }
+.bottom { display:flex; justify-content:space-between; gap:1.5rem; padding-top:1.5rem; border-top:1px solid var(--border); font-size:.65rem; line-height:1.8; color:var(--muted); letter-spacing:.025em; }
+@media(max-width:650px){.top,.bottom{flex-direction:column}.title{font-size:3.5rem}.bottom{gap:.6rem}}

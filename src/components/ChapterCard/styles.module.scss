@@ -1,0 +1,7 @@
+.card{display:flex;align-items:center;gap:clamp(1rem,4vw,4rem);padding:1.65rem 0;border-bottom:1px solid var(--border);transition:padding .2s,background .2s; &:hover{padding-left:1rem;background:rgba(32,216,210,.04)} }
+.number{font:400 clamp(2.6rem,5vw,4.2rem)/1 var(--serif);color:#587477;width:86px;flex-shrink:0}
+.main{display:flex;flex-direction:column;gap:.45rem;min-width:0;flex:1;strong{font:400 clamp(1.3rem,2.4vw,2rem)/1.1 var(--serif)}}
+.micro{display:flex;gap:.8rem;align-items:center;letter-spacing:.16em;color:var(--accent);font-size:.59rem}
+.finished{display:inline-flex;align-items:center;gap:.25rem;color:var(--muted);letter-spacing:.08em}
+.arrow{color:var(--accent);flex-shrink:0;transition:transform .2s}.card:hover .arrow{transform:translate(4px,-4px)}
+@media(max-width:520px){.number{width:46px;font-size:2.4rem}.card{gap:1rem;padding:1.4rem 0}.arrow{width:16px}}

@@ -1,0 +1,282 @@
+[
+  {
+    "number": 1,
+    "title": "O discurso",
+    "slug": "01-o-discurso",
+    "startPage": 4,
+    "endPage": 14,
+    "hasNotes": false,
+    "hasImages": false,
+    "readingBlocks": 88
+  },
+  {
+    "number": 2,
+    "title": "A Primeira aula",
+    "slug": "02-a-primeira-aula",
+    "startPage": 15,
+    "endPage": 28,
+    "hasNotes": true,
+    "hasImages": false,
+    "readingBlocks": 116
+  },
+  {
+    "number": 3,
+    "title": "O inferno está cheio de boas intenções",
+    "slug": "03-o-inferno-esta-cheio-de-boas-intencoes",
+    "startPage": 29,
+    "endPage": 37,
+    "hasNotes": false,
+    "hasImages": false,
+    "readingBlocks": 65
+  },
+  {
+    "number": 4,
+    "title": "Nenhum gesto humano é capaz de abolir o acaso",
+    "slug": "04-nenhum-gesto-humano-e-capaz-de-abolir-o-acaso",
+    "startPage": 38,
+    "endPage": 54,
+    "hasNotes": true,
+    "hasImages": false,
+    "readingBlocks": 133
+  },
+  {
+    "number": 5,
+    "title": "Conexões",
+    "slug": "05-conexoes",
+    "startPage": 55,
+    "endPage": 63,
+    "hasNotes": false,
+    "hasImages": false,
+    "readingBlocks": 77
+  },
+  {
+    "number": 6,
+    "title": "O caso",
+    "slug": "06-o-caso",
+    "startPage": 64,
+    "endPage": 72,
+    "hasNotes": false,
+    "hasImages": false,
+    "readingBlocks": 54
+  },
+  {
+    "number": 7,
+    "title": "Duas Insônias",
+    "slug": "07-duas-insonias",
+    "startPage": 73,
+    "endPage": 79,
+    "hasNotes": false,
+    "hasImages": false,
+    "readingBlocks": 37
+  },
+  {
+    "number": 8,
+    "title": "A fresta",
+    "slug": "08-a-fresta",
+    "startPage": 80,
+    "endPage": 90,
+    "hasNotes": false,
+    "hasImages": false,
+    "readingBlocks": 88
+  },
+  {
+    "number": 9,
+    "title": "Non bis in idem",
+    "slug": "09-non-bis-in-idem",
+    "startPage": 91,
+    "endPage": 104,
+    "hasNotes": true,
+    "hasImages": false,
+    "readingBlocks": 123
+  },
+  {
+    "number": 10,
+    "title": "Alguém em Quem Confiar",
+    "slug": "10-alguem-em-quem-confiar",
+    "startPage": 105,
+    "endPage": 117,
+    "hasNotes": true,
+    "hasImages": false,
+    "readingBlocks": 83
+  },
+  {
+    "number": 11,
+    "title": "Amor fisiológico",
+    "slug": "11-amor-fisiologico",
+    "startPage": 118,
+    "endPage": 134,
+    "hasNotes": true,
+    "hasImages": false,
+    "readingBlocks": 111
+  },
+  {
+    "number": 12,
+    "title": "A Bolsa",
+    "slug": "12-a-bolsa",
+    "startPage": 135,
+    "endPage": 147,
+    "hasNotes": false,
+    "hasImages": true,
+    "readingBlocks": 98
+  },
+  {
+    "number": 13,
+    "title": "Entre Estantes",
+    "slug": "13-entre-estantes",
+    "startPage": 148,
+    "endPage": 162,
+    "hasNotes": false,
+    "hasImages": false,
+    "readingBlocks": 137
+  },
+  {
+    "number": 14,
+    "title": "O convite",
+    "slug": "14-o-convite",
+    "startPage": 163,
+    "endPage": 187,
+    "hasNotes": true,
+    "hasImages": false,
+    "readingBlocks": 248
+  },
+  {
+    "number": 15,
+    "title": "Dia das mães",
+    "slug": "15-dia-das-maes",
+    "startPage": 188,
+    "endPage": 213,
+    "hasNotes": true,
+    "hasImages": true,
+    "readingBlocks": 188
+  },
+  {
+    "number": 16,
+    "title": "Pode voltar a respirar",
+    "slug": "16-pode-voltar-a-respirar",
+    "startPage": 214,
+    "endPage": 233,
+    "hasNotes": false,
+    "hasImages": false,
+    "readingBlocks": 135
+  },
+  {
+    "number": 17,
+    "title": "Sexualidade segundo Foucault",
+    "slug": "17-sexualidade-segundo-foucault",
+    "startPage": 234,
+    "endPage": 270,
+    "hasNotes": true,
+    "hasImages": true,
+    "readingBlocks": 226
+  },
+  {
+    "number": 18,
+    "title": "A cena de um crime",
+    "slug": "18-a-cena-de-um-crime",
+    "startPage": 271,
+    "endPage": 295,
+    "hasNotes": true,
+    "hasImages": true,
+    "readingBlocks": 124
+  },
+  {
+    "number": 19,
+    "title": "Acima de qualquer suspeita",
+    "slug": "19-acima-de-qualquer-suspeita",
+    "startPage": 296,
+    "endPage": 325,
+    "hasNotes": true,
+    "hasImages": false,
+    "readingBlocks": 192
+  },
+  {
+    "number": 20,
+    "title": "Primeiras vezes",
+    "slug": "20-primeiras-vezes",
+    "startPage": 326,
+    "endPage": 361,
+    "hasNotes": true,
+    "hasImages": false,
+    "readingBlocks": 238
+  },
+  {
+    "number": 21,
+    "title": "Sui Generis",
+    "slug": "21-sui-generis",
+    "startPage": 362,
+    "endPage": 385,
+    "hasNotes": true,
+    "hasImages": false,
+    "readingBlocks": 139
+  },
+  {
+    "number": 22,
+    "title": "Trégua",
+    "slug": "22-tregua",
+    "startPage": 386,
+    "endPage": 408,
+    "hasNotes": true,
+    "hasImages": false,
+    "readingBlocks": 166
+  },
+  {
+    "number": 23,
+    "title": "Nuvole Bianche",
+    "slug": "23-nuvole-bianche",
+    "startPage": 409,
+    "endPage": 444,
+    "hasNotes": true,
+    "hasImages": false,
+    "readingBlocks": 245
+  },
+  {
+    "number": 24,
+    "title": "Say yes to heaven (Part I)",
+    "slug": "24-say-yes-to-heaven-part-i",
+    "startPage": 445,
+    "endPage": 461,
+    "hasNotes": true,
+    "hasImages": true,
+    "readingBlocks": 99
+  },
+  {
+    "number": 25,
+    "title": "Say yes to heaven (Part II)",
+    "slug": "25-say-yes-to-heaven-part-ii",
+    "startPage": 462,
+    "endPage": 509,
+    "hasNotes": true,
+    "hasImages": false,
+    "readingBlocks": 357
+  },
+  {
+    "number": 26,
+    "title": "Jogo perverso",
+    "slug": "26-jogo-perverso",
+    "startPage": 510,
+    "endPage": 551,
+    "hasNotes": true,
+    "hasImages": true,
+    "readingBlocks": 285
+  },
+  {
+    "number": 27,
+    "title": "Não se afaste de mim",
+    "slug": "27-nao-se-afaste-de-mim",
+    "startPage": 552,
+    "endPage": 596,
+    "hasNotes": true,
+    "hasImages": false,
+    "readingBlocks": 358
+  },
+  {
+    "number": 28,
+    "title": "You gave me my name and the colour of your eyes",
+    "slug": "28-you-gave-me-my-name-and-the-colour-of-your-eyes",
+    "startPage": 597,
+    "endPage": 618,
+    "hasNotes": true,
+    "hasImages": false,
+    "readingBlocks": 171
+  }
+]

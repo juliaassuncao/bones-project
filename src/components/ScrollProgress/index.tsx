@@ -1,0 +1,3 @@
+import { useEffect,useState } from 'react';
+import styles from './styles.module.scss';
+export default function ScrollProgress(){const [progress,setProgress]=useState(0);useEffect(()=>{let scheduled=false;const update=()=>{if(scheduled)return;scheduled=true;requestAnimationFrame(()=>{const max=document.documentElement.scrollHeight-window.innerHeight;setProgress(max>0?100*window.scrollY/max:0);scheduled=false;});};update();window.addEventListener('scroll',update,{passive:true});window.addEventListener('resize',update);return()=>{window.removeEventListener('scroll',update);window.removeEventListener('resize',update)}},[]);return <div className={styles.track} aria-hidden="true"><div className={styles.fill} style={{width:`${progress}%`}}/></div>}

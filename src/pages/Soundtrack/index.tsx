@@ -1,0 +1,11 @@
+import { ArrowUpRight, Headphones, Music2 } from 'lucide-react';
+import { Link } from 'react-router-dom';
+import ArchiveLabel from '../../components/ArchiveLabel';
+import { SITE } from '../../constants/site';
+import { chapters } from '../../data/chapters';
+import { tracks } from '../../data/soundtrack';
+import styles from './styles.module.scss';
+export default function Soundtrack(){return <div className={styles.page}><div className="container"><div className={styles.hero}><div className={styles.heroCopy}><ArchiveLabel number="ARQUIVO 004" label="TRILHA SONORA"/><h1>A linguagem <em>do que se sente.</em></h1><p>A música acompanha os silêncios, encontros e descobertas de Bones. Esta seleção destaca algumas das faixas indicadas pela própria Mary durante a narrativa.</p><a className="button" href={SITE.spotify} target="_blank" rel="noopener noreferrer"><Headphones size={18}/> ABRIR PLAYLIST OFICIAL <ArrowUpRight size={16}/></a></div><img src="/images/branding/bones-hand.jpg" alt="Capa oficial da playlist Bones: impressão de mão azul ciano sobre fundo escuro"/></div>
+  <div className={styles.heading}><span className="eyebrow">FAIXAS EM DESTAQUE</span><span>{tracks.length} REGISTROS MUSICAIS · ORDEM DOS CAPÍTULOS</span></div><div className={styles.tracks}>{tracks.map((t,i)=>{const c=chapters.find(c=>c.number===t.chapter);return <div className={styles.track} key={`${t.chapter}-${t.title}`}><span className={styles.number}>{String(i+1).padStart(2,'0')}</span><div className={styles.icon}><Music2 size={22}/></div><div className={styles.info}><strong>{t.title}</strong><small>{t.artist}</small><span>{t.note}</span></div>{c&&<Link to={`/capitulos/${c.slug}`} className={styles.chapter}>CAP. {String(t.chapter).padStart(2,'0')} <ArrowUpRight size={16}/></Link>}</div>})}</div>
+  <aside className={styles.footnote}><Music2 size={25}/><div><h2>Uma observação sobre as músicas</h2><p>Esta é uma seleção inicial conferida no PDF, não um inventário completo de todas as referências musicais. Sempre que a autora indica uma versão específica, priorize essa gravação na playlist oficial. Não há reprodução automática: o controle da experiência permanece com quem lê.</p></div></aside>
+</div></div>}

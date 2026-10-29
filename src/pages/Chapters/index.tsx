@@ -1,0 +1,9 @@
+import { useMemo, useState } from 'react';
+import { Search, X } from 'lucide-react';
+import ArchiveLabel from '../../components/ArchiveLabel';
+import ChapterCard from '../../components/ChapterCard';
+import { chapters } from '../../data/chapters';
+import { useChapterProgress } from '../../hooks/useChapterProgress';
+import styles from './styles.module.scss';
+export default function Chapters(){const [search,setSearch]=useState('');const {finished}=useChapterProgress();const shown=useMemo(()=>chapters.filter(c=>`${c.number} ${c.title}`.toLocaleLowerCase('pt-BR').includes(search.toLocaleLowerCase('pt-BR'))),[search]);return <div className={styles.page}><div className="container"><div className={styles.hero}><ArchiveLabel number="ARQUIVO 003" label="ÍNDICE COMPLETO"/><h1>Os <em>registros.</em></h1><p>Um encontro, muitas perguntas. Explore todos os capítulos importados do arquivo original da Mary.</p></div><div className={styles.tools}><div className={styles.stats}><strong>{chapters.length}</strong><span>CAPÍTULOS DISPONÍVEIS</span><strong>{finished.length}</strong><span>LIDOS NESTE NAVEGADOR</span></div><label className={styles.search}><Search size={18}/><span className={styles.srOnly}>Buscar pelo número ou título do capítulo</span><input type="search" value={search} onChange={e=>setSearch(e.target.value)} placeholder="Buscar número ou título..." />{search&&<button type="button" onClick={()=>setSearch('')} aria-label="Limpar busca"><X size={17}/></button>}</label></div>
+  <div className={styles.list}>{shown.length?shown.map(c=><ChapterCard key={c.slug} chapter={c} finished={finished.includes(c.number)}/>):<p className={styles.empty}>Não encontrei capítulos com esse termo.</p>}</div><p className={styles.note}>Os capítulos são apresentados na ordem original da publicação. A marcação de leitura fica salva apenas neste navegador e pode ser alterada a qualquer momento no leitor.</p></div></div>}

@@ -1,0 +1,5 @@
+.card{position:relative;display:flex;flex-direction:column;justify-content:space-between;min-height:420px;padding:1.7rem;border:1px solid var(--border);background:radial-gradient(ellipse at 70% 35%,#193c4033,transparent 55%),#0c1a1d;overflow:hidden;transition:border-color .2s,transform .2s;&:hover{border-color:#37b8ba88;transform:translateY(-3px)}}
+.featured{min-height:490px}
+.top{display:flex;justify-content:space-between;gap:1rem;align-items:start;position:relative;z-index:1}.motif{color:var(--accent);font-size:.59rem;letter-spacing:.18em}.index{font-size:.65rem;color:var(--muted)}
+.center{position:absolute;inset:0;display:grid;place-items:center;pointer-events:none;span{font:400 clamp(8rem,20vw,15rem)/1 var(--serif);letter-spacing:-.08em;color:rgba(32,216,210,.065);}}
+.bottom{position:relative;z-index:1}.role{color:var(--accent);font-size:.75rem;margin:0 0 .35rem}.bottom h3{font:400 clamp(2rem,3.3vw,3rem)/1 var(--serif);margin:0 0 1rem}.text{line-height:1.7;color:#b2c3c0;font-size:.82rem;max-width:390px;margin:0}
