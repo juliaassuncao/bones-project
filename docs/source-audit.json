@@ -1,0 +1,788 @@
+{
+  "pdf": {
+    "name": "Bones.pdf",
+    "pages": 619,
+    "sha256": "f401c022fca099bb18658031eea75d1b5313002686fa132b0f5e4e36a619b201"
+  },
+  "epub": {
+    "name": "Bones.epub",
+    "sha256": "24a538334f34f444c9f54cfb59d15a9ff0f533989561177e05d283ea89261609"
+  },
+  "originNote": [
+    "Bones, originalmente uma história Camren, nasceu em coautoria, e a base construída anteriormente foi essencial para que ela existisse.",
+    "Nesta releitura loquinha, sigo escrevendo sozinha, com um novo shipper e novos caminhos para os personagens. Ainda assim, reconheço e respeito integralmente as contribuições criativas da coautora na versão original, cujos direitos permanecem garantidos e acordados entre nós.",
+    "As atualizações devem ocorrer todo domingo! Qualquer mudança aviso lá no meu twitter!",
+    "@marydebones"
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "pages": [
+        4,
+        14
+      ],
+      "pdfEpubTextMatch": true,
+      "before": {
+        "summary": 0,
+        "notes": 0,
+        "content": 88,
+        "endNotes": 0
+      },
+      "after": {
+        "summary": 0,
+        "notes": 0,
+        "content": 87,
+        "endNotes": 0
+      },
+      "artificialParagraphBreaksRemoved": 1,
+      "originalParagraphBreaksRestored": 0,
+      "explicitLineBreaksRestored": 0,
+      "recoveredGlyphs": [],
+      "urlsBefore": [],
+      "urlsAfter": [],
+      "changed": true
+    },
+    {
+      "chapter": 2,
+      "pages": [
+        15,
+        28
+      ],
+      "pdfEpubTextMatch": true,
+      "before": {
+        "summary": 0,
+        "notes": 0,
+        "content": 116,
+        "endNotes": 2
+      },
+      "after": {
+        "summary": 0,
+        "notes": 0,
+        "content": 115,
+        "endNotes": 2
+      },
+      "artificialParagraphBreaksRemoved": 1,
+      "originalParagraphBreaksRestored": 0,
+      "explicitLineBreaksRestored": 2,
+      "recoveredGlyphs": [],
+      "urlsBefore": [],
+      "urlsAfter": [],
+      "changed": true
+    },
+    {
+      "chapter": 3,
+      "pages": [
+        29,
+        37
+      ],
+      "pdfEpubTextMatch": true,
+      "before": {
+        "summary": 0,
+        "notes": 0,
+        "content": 65,
+        "endNotes": 0
+      },
+      "after": {
+        "summary": 0,
+        "notes": 0,
+        "content": 65,
+        "endNotes": 0
+      },
+      "artificialParagraphBreaksRemoved": 0,
+      "originalParagraphBreaksRestored": 0,
+      "explicitLineBreaksRestored": 0,
+      "recoveredGlyphs": [],
+      "urlsBefore": [],
+      "urlsAfter": [],
+      "changed": false
+    },
+    {
+      "chapter": 4,
+      "pages": [
+        38,
+        54
+      ],
+      "pdfEpubTextMatch": true,
+      "before": {
+        "summary": 0,
+        "notes": 0,
+        "content": 133,
+        "endNotes": 1
+      },
+      "after": {
+        "summary": 0,
+        "notes": 0,
+        "content": 133,
+        "endNotes": 1
+      },
+      "artificialParagraphBreaksRemoved": 0,
+      "originalParagraphBreaksRestored": 0,
+      "explicitLineBreaksRestored": 0,
+      "recoveredGlyphs": [],
+      "urlsBefore": [],
+      "urlsAfter": [],
+      "changed": true
+    },
+    {
+      "chapter": 5,
+      "pages": [
+        55,
+        63
+      ],
+      "pdfEpubTextMatch": true,
+      "before": {
+        "summary": 0,
+        "notes": 0,
+        "content": 77,
+        "endNotes": 0
+      },
+      "after": {
+        "summary": 0,
+        "notes": 0,
+        "content": 76,
+        "endNotes": 0
+      },
+      "artificialParagraphBreaksRemoved": 1,
+      "originalParagraphBreaksRestored": 0,
+      "explicitLineBreaksRestored": 0,
+      "recoveredGlyphs": [],
+      "urlsBefore": [],
+      "urlsAfter": [],
+      "changed": true
+    },
+    {
+      "chapter": 6,
+      "pages": [
+        64,
+        72
+      ],
+      "pdfEpubTextMatch": true,
+      "before": {
+        "summary": 0,
+        "notes": 0,
+        "content": 54,
+        "endNotes": 0
+      },
+      "after": {
+        "summary": 0,
+        "notes": 0,
+        "content": 53,
+        "endNotes": 0
+      },
+      "artificialParagraphBreaksRemoved": 1,
+      "originalParagraphBreaksRestored": 0,
+      "explicitLineBreaksRestored": 0,
+      "recoveredGlyphs": [],
+      "urlsBefore": [],
+      "urlsAfter": [],
+      "changed": true
+    },
+    {
+      "chapter": 7,
+      "pages": [
+        73,
+        79
+      ],
+      "pdfEpubTextMatch": true,
+      "before": {
+        "summary": 0,
+        "notes": 0,
+        "content": 37,
+        "endNotes": 0
+      },
+      "after": {
+        "summary": 0,
+        "notes": 0,
+        "content": 36,
+        "endNotes": 0
+      },
+      "artificialParagraphBreaksRemoved": 1,
+      "originalParagraphBreaksRestored": 0,
+      "explicitLineBreaksRestored": 0,
+      "recoveredGlyphs": [],
+      "urlsBefore": [],
+      "urlsAfter": [],
+      "changed": true
+    },
+    {
+      "chapter": 8,
+      "pages": [
+        80,
+        90
+      ],
+      "pdfEpubTextMatch": true,
+      "before": {
+        "summary": 0,
+        "notes": 0,
+        "content": 88,
+        "endNotes": 0
+      },
+      "after": {
+        "summary": 0,
+        "notes": 0,
+        "content": 88,
+        "endNotes": 0
+      },
+      "artificialParagraphBreaksRemoved": 0,
+      "originalParagraphBreaksRestored": 0,
+      "explicitLineBreaksRestored": 0,
+      "recoveredGlyphs": [],
+      "urlsBefore": [],
+      "urlsAfter": [],
+      "changed": false
+    },
+    {
+      "chapter": 9,
+      "pages": [
+        91,
+        104
+      ],
+      "pdfEpubTextMatch": true,
+      "before": {
+        "summary": 0,
+        "notes": 0,
+        "content": 123,
+        "endNotes": 2
+      },
+      "after": {
+        "summary": 0,
+        "notes": 0,
+        "content": 123,
+        "endNotes": 2
+      },
+      "artificialParagraphBreaksRemoved": 0,
+      "originalParagraphBreaksRestored": 0,
+      "explicitLineBreaksRestored": 1,
+      "recoveredGlyphs": [],
+      "urlsBefore": [],
+      "urlsAfter": [],
+      "changed": true
+    },
+    {
+      "chapter": 10,
+      "pages": [
+        105,
+        117
+      ],
+      "pdfEpubTextMatch": true,
+      "before": {
+        "summary": 0,
+        "notes": 0,
+        "content": 83,
+        "endNotes": 1
+      },
+      "after": {
+        "summary": 0,
+        "notes": 0,
+        "content": 82,
+        "endNotes": 1
+      },
+      "artificialParagraphBreaksRemoved": 1,
+      "originalParagraphBreaksRestored": 0,
+      "explicitLineBreaksRestored": 1,
+      "recoveredGlyphs": [],
+      "urlsBefore": [],
+      "urlsAfter": [],
+      "changed": true
+    },
+    {
+      "chapter": 11,
+      "pages": [
+        118,
+        134
+      ],
+      "pdfEpubTextMatch": true,
+      "before": {
+        "summary": 0,
+        "notes": 0,
+        "content": 111,
+        "endNotes": 1
+      },
+      "after": {
+        "summary": 0,
+        "notes": 0,
+        "content": 111,
+        "endNotes": 2
+      },
+      "artificialParagraphBreaksRemoved": 0,
+      "originalParagraphBreaksRestored": 1,
+      "explicitLineBreaksRestored": 2,
+      "recoveredGlyphs": [],
+      "urlsBefore": [],
+      "urlsAfter": [],
+      "changed": true
+    },
+    {
+      "chapter": 12,
+      "pages": [
+        135,
+        147
+      ],
+      "pdfEpubTextMatch": true,
+      "before": {
+        "summary": 0,
+        "notes": 0,
+        "content": 98,
+        "endNotes": 0
+      },
+      "after": {
+        "summary": 0,
+        "notes": 0,
+        "content": 98,
+        "endNotes": 0
+      },
+      "artificialParagraphBreaksRemoved": 0,
+      "originalParagraphBreaksRestored": 0,
+      "explicitLineBreaksRestored": 0,
+      "recoveredGlyphs": [],
+      "urlsBefore": [],
+      "urlsAfter": [],
+      "changed": true
+    },
+    {
+      "chapter": 13,
+      "pages": [
+        148,
+        162
+      ],
+      "pdfEpubTextMatch": true,
+      "before": {
+        "summary": 0,
+        "notes": 0,
+        "content": 137,
+        "endNotes": 0
+      },
+      "after": {
+        "summary": 0,
+        "notes": 0,
+        "content": 137,
+        "endNotes": 0
+      },
+      "artificialParagraphBreaksRemoved": 0,
+      "originalParagraphBreaksRestored": 0,
+      "explicitLineBreaksRestored": 0,
+      "recoveredGlyphs": [],
+      "urlsBefore": [],
+      "urlsAfter": [],
+      "changed": false
+    },
+    {
+      "chapter": 14,
+      "pages": [
+        163,
+        187
+      ],
+      "pdfEpubTextMatch": true,
+      "before": {
+        "summary": 0,
+        "notes": 0,
+        "content": 248,
+        "endNotes": 2
+      },
+      "after": {
+        "summary": 0,
+        "notes": 0,
+        "content": 248,
+        "endNotes": 2
+      },
+      "artificialParagraphBreaksRemoved": 0,
+      "originalParagraphBreaksRestored": 0,
+      "explicitLineBreaksRestored": 1,
+      "recoveredGlyphs": [],
+      "urlsBefore": [],
+      "urlsAfter": [],
+      "changed": true
+    },
+    {
+      "chapter": 15,
+      "pages": [
+        188,
+        213
+      ],
+      "pdfEpubTextMatch": true,
+      "before": {
+        "summary": 0,
+        "notes": 1,
+        "content": 188,
+        "endNotes": 0
+      },
+      "after": {
+        "summary": 0,
+        "notes": 1,
+        "content": 188,
+        "endNotes": 0
+      },
+      "artificialParagraphBreaksRemoved": 0,
+      "originalParagraphBreaksRestored": 0,
+      "explicitLineBreaksRestored": 2,
+      "recoveredGlyphs": [],
+      "urlsBefore": [],
+      "urlsAfter": [],
+      "changed": true
+    },
+    {
+      "chapter": 16,
+      "pages": [
+        214,
+        233
+      ],
+      "pdfEpubTextMatch": true,
+      "before": {
+        "summary": 0,
+        "notes": 0,
+        "content": 135,
+        "endNotes": 0
+      },
+      "after": {
+        "summary": 0,
+        "notes": 0,
+        "content": 134,
+        "endNotes": 0
+      },
+      "artificialParagraphBreaksRemoved": 1,
+      "originalParagraphBreaksRestored": 0,
+      "explicitLineBreaksRestored": 0,
+      "recoveredGlyphs": [],
+      "urlsBefore": [],
+      "urlsAfter": [],
+      "changed": true
+    },
+    {
+      "chapter": 17,
+      "pages": [
+        234,
+        270
+      ],
+      "pdfEpubTextMatch": true,
+      "before": {
+        "summary": 0,
+        "notes": 1,
+        "content": 226,
+        "endNotes": 2
+      },
+      "after": {
+        "summary": 0,
+        "notes": 1,
+        "content": 225,
+        "endNotes": 1
+      },
+      "artificialParagraphBreaksRemoved": 2,
+      "originalParagraphBreaksRestored": 0,
+      "explicitLineBreaksRestored": 1,
+      "recoveredGlyphs": [],
+      "urlsBefore": [],
+      "urlsAfter": [],
+      "changed": true
+    },
+    {
+      "chapter": 18,
+      "pages": [
+        271,
+        295
+      ],
+      "pdfEpubTextMatch": true,
+      "before": {
+        "summary": 0,
+        "notes": 1,
+        "content": 124,
+        "endNotes": 1
+      },
+      "after": {
+        "summary": 0,
+        "notes": 1,
+        "content": 121,
+        "endNotes": 1
+      },
+      "artificialParagraphBreaksRemoved": 3,
+      "originalParagraphBreaksRestored": 0,
+      "explicitLineBreaksRestored": 3,
+      "recoveredGlyphs": [],
+      "urlsBefore": [],
+      "urlsAfter": [],
+      "changed": true
+    },
+    {
+      "chapter": 19,
+      "pages": [
+        296,
+        325
+      ],
+      "pdfEpubTextMatch": true,
+      "before": {
+        "summary": 0,
+        "notes": 2,
+        "content": 192,
+        "endNotes": 2
+      },
+      "after": {
+        "summary": 0,
+        "notes": 1,
+        "content": 193,
+        "endNotes": 2
+      },
+      "artificialParagraphBreaksRemoved": 0,
+      "originalParagraphBreaksRestored": 0,
+      "explicitLineBreaksRestored": 35,
+      "recoveredGlyphs": [],
+      "urlsBefore": [],
+      "urlsAfter": [],
+      "changed": true
+    },
+    {
+      "chapter": 20,
+      "pages": [
+        326,
+        361
+      ],
+      "pdfEpubTextMatch": true,
+      "before": {
+        "summary": 0,
+        "notes": 1,
+        "content": 238,
+        "endNotes": 2
+      },
+      "after": {
+        "summary": 0,
+        "notes": 1,
+        "content": 237,
+        "endNotes": 2
+      },
+      "artificialParagraphBreaksRemoved": 1,
+      "originalParagraphBreaksRestored": 0,
+      "explicitLineBreaksRestored": 88,
+      "recoveredGlyphs": [
+        "🙄",
+        "🙄",
+        "🙄",
+        "🙄"
+      ],
+      "urlsBefore": [],
+      "urlsAfter": [],
+      "changed": true
+    },
+    {
+      "chapter": 21,
+      "pages": [
+        362,
+        385
+      ],
+      "pdfEpubTextMatch": true,
+      "before": {
+        "summary": 0,
+        "notes": 10,
+        "content": 139,
+        "endNotes": 2
+      },
+      "after": {
+        "summary": 0,
+        "notes": 0,
+        "content": 147,
+        "endNotes": 2
+      },
+      "artificialParagraphBreaksRemoved": 2,
+      "originalParagraphBreaksRestored": 0,
+      "explicitLineBreaksRestored": 11,
+      "recoveredGlyphs": [],
+      "urlsBefore": [],
+      "urlsAfter": [],
+      "changed": true
+    },
+    {
+      "chapter": 22,
+      "pages": [
+        386,
+        408
+      ],
+      "pdfEpubTextMatch": true,
+      "before": {
+        "summary": 0,
+        "notes": 0,
+        "content": 166,
+        "endNotes": 1
+      },
+      "after": {
+        "summary": 0,
+        "notes": 0,
+        "content": 166,
+        "endNotes": 1
+      },
+      "artificialParagraphBreaksRemoved": 0,
+      "originalParagraphBreaksRestored": 0,
+      "explicitLineBreaksRestored": 5,
+      "recoveredGlyphs": [],
+      "urlsBefore": [],
+      "urlsAfter": [],
+      "changed": true
+    },
+    {
+      "chapter": 23,
+      "pages": [
+        409,
+        444
+      ],
+      "pdfEpubTextMatch": true,
+      "before": {
+        "summary": 0,
+        "notes": 3,
+        "content": 245,
+        "endNotes": 2
+      },
+      "after": {
+        "summary": 0,
+        "notes": 3,
+        "content": 244,
+        "endNotes": 2
+      },
+      "artificialParagraphBreaksRemoved": 1,
+      "originalParagraphBreaksRestored": 0,
+      "explicitLineBreaksRestored": 2,
+      "recoveredGlyphs": [],
+      "urlsBefore": [],
+      "urlsAfter": [],
+      "changed": true
+    },
+    {
+      "chapter": 24,
+      "pages": [
+        445,
+        461
+      ],
+      "pdfEpubTextMatch": true,
+      "before": {
+        "summary": 5,
+        "notes": 3,
+        "content": 99,
+        "endNotes": 2
+      },
+      "after": {
+        "summary": 5,
+        "notes": 0,
+        "content": 102,
+        "endNotes": 2
+      },
+      "artificialParagraphBreaksRemoved": 0,
+      "originalParagraphBreaksRestored": 0,
+      "explicitLineBreaksRestored": 2,
+      "recoveredGlyphs": [],
+      "urlsBefore": [
+        "https://open.spotify.com/playlist/5cqfMuLJNFAFCvoouDyklL?"
+      ],
+      "urlsAfter": [
+        "https://open.spotify.com/playlist/5cqfMuLJNFAFCvoouDyklL?si=bd831784582a4868"
+      ],
+      "changed": true
+    },
+    {
+      "chapter": 25,
+      "pages": [
+        462,
+        509
+      ],
+      "pdfEpubTextMatch": true,
+      "before": {
+        "summary": 0,
+        "notes": 3,
+        "content": 357,
+        "endNotes": 2
+      },
+      "after": {
+        "summary": 0,
+        "notes": 3,
+        "content": 356,
+        "endNotes": 2
+      },
+      "artificialParagraphBreaksRemoved": 1,
+      "originalParagraphBreaksRestored": 0,
+      "explicitLineBreaksRestored": 6,
+      "recoveredGlyphs": [],
+      "urlsBefore": [
+        "https://open.spotify.com/playlist/5cqfMuLJNFAFCvoouDyklL?"
+      ],
+      "urlsAfter": [
+        "https://open.spotify.com/playlist/5cqfMuLJNFAFCvoouDyklL?si=7bda85e3647948df"
+      ],
+      "changed": true
+    },
+    {
+      "chapter": 26,
+      "pages": [
+        510,
+        551
+      ],
+      "pdfEpubTextMatch": true,
+      "before": {
+        "summary": 0,
+        "notes": 6,
+        "content": 285,
+        "endNotes": 1
+      },
+      "after": {
+        "summary": 0,
+        "notes": 5,
+        "content": 285,
+        "endNotes": 1
+      },
+      "artificialParagraphBreaksRemoved": 1,
+      "originalParagraphBreaksRestored": 0,
+      "explicitLineBreaksRestored": 6,
+      "recoveredGlyphs": [],
+      "urlsBefore": [],
+      "urlsAfter": [],
+      "changed": true
+    },
+    {
+      "chapter": 27,
+      "pages": [
+        552,
+        596
+      ],
+      "pdfEpubTextMatch": true,
+      "before": {
+        "summary": 0,
+        "notes": 3,
+        "content": 358,
+        "endNotes": 3
+      },
+      "after": {
+        "summary": 0,
+        "notes": 3,
+        "content": 358,
+        "endNotes": 3
+      },
+      "artificialParagraphBreaksRemoved": 0,
+      "originalParagraphBreaksRestored": 0,
+      "explicitLineBreaksRestored": 3,
+      "recoveredGlyphs": [],
+      "urlsBefore": [],
+      "urlsAfter": [],
+      "changed": true
+    },
+    {
+      "chapter": 28,
+      "pages": [
+        597,
+        618
+      ],
+      "pdfEpubTextMatch": true,
+      "before": {
+        "summary": 0,
+        "notes": 5,
+        "content": 171,
+        "endNotes": 3
+      },
+      "after": {
+        "summary": 0,
+        "notes": 5,
+        "content": 168,
+        "endNotes": 3
+      },
+      "artificialParagraphBreaksRemoved": 3,
+      "originalParagraphBreaksRestored": 0,
+      "explicitLineBreaksRestored": 45,
+      "recoveredGlyphs": [],
+      "urlsBefore": [],
+      "urlsAfter": [],
+      "changed": true
+    }
+  ]
+}

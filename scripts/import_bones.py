@@ -96,6 +96,9 @@ for index,(number,title,start) in enumerate(chapters):
         if plain=='Chapter Notes': state='notes';continue
         if plain=='Chapter End Notes': state='endnotes';continue
         if plain in ('See the end of the chapter for notes','See the end of the chapter for more notes'):
+            # O link editorial fecha a introdução do AO3. O corpo pode começar
+            # com epígrafe, conversa ou imagem, sem um marcador de POV.
+            state='body'
             continue
         if plain.strip() in ('[...]','[ ... ]','* * *','***','~~','~ ~','* *','— — —') or re.match(r'^\*\s*\*\s*\*$',plain):
             dest=endnotes if state=='endnotes' else content

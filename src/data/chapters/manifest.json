@@ -7,7 +7,7 @@
     "endPage": 14,
     "hasNotes": false,
     "hasImages": false,
-    "readingBlocks": 88
+    "readingBlocks": 87
   },
   {
     "number": 2,
@@ -17,7 +17,7 @@
     "endPage": 28,
     "hasNotes": true,
     "hasImages": false,
-    "readingBlocks": 116
+    "readingBlocks": 115
   },
   {
     "number": 3,
@@ -47,7 +47,7 @@
     "endPage": 63,
     "hasNotes": false,
     "hasImages": false,
-    "readingBlocks": 77
+    "readingBlocks": 76
   },
   {
     "number": 6,
@@ -57,7 +57,7 @@
     "endPage": 72,
     "hasNotes": false,
     "hasImages": false,
-    "readingBlocks": 54
+    "readingBlocks": 53
   },
   {
     "number": 7,
@@ -67,7 +67,7 @@
     "endPage": 79,
     "hasNotes": false,
     "hasImages": false,
-    "readingBlocks": 37
+    "readingBlocks": 36
   },
   {
     "number": 8,
@@ -97,7 +97,7 @@
     "endPage": 117,
     "hasNotes": true,
     "hasImages": false,
-    "readingBlocks": 83
+    "readingBlocks": 82
   },
   {
     "number": 11,
@@ -157,7 +157,7 @@
     "endPage": 233,
     "hasNotes": false,
     "hasImages": false,
-    "readingBlocks": 135
+    "readingBlocks": 134
   },
   {
     "number": 17,
@@ -167,7 +167,7 @@
     "endPage": 270,
     "hasNotes": true,
     "hasImages": true,
-    "readingBlocks": 226
+    "readingBlocks": 225
   },
   {
     "number": 18,
@@ -177,7 +177,7 @@
     "endPage": 295,
     "hasNotes": true,
     "hasImages": true,
-    "readingBlocks": 124
+    "readingBlocks": 121
   },
   {
     "number": 19,
@@ -187,7 +187,7 @@
     "endPage": 325,
     "hasNotes": true,
     "hasImages": false,
-    "readingBlocks": 192
+    "readingBlocks": 193
   },
   {
     "number": 20,
@@ -197,7 +197,7 @@
     "endPage": 361,
     "hasNotes": true,
     "hasImages": false,
-    "readingBlocks": 238
+    "readingBlocks": 237
   },
   {
     "number": 21,
@@ -207,7 +207,7 @@
     "endPage": 385,
     "hasNotes": true,
     "hasImages": false,
-    "readingBlocks": 139
+    "readingBlocks": 147
   },
   {
     "number": 22,
@@ -227,7 +227,7 @@
     "endPage": 444,
     "hasNotes": true,
     "hasImages": false,
-    "readingBlocks": 245
+    "readingBlocks": 244
   },
   {
     "number": 24,
@@ -237,7 +237,7 @@
     "endPage": 461,
     "hasNotes": true,
     "hasImages": true,
-    "readingBlocks": 99
+    "readingBlocks": 102
   },
   {
     "number": 25,
@@ -247,7 +247,7 @@
     "endPage": 509,
     "hasNotes": true,
     "hasImages": false,
-    "readingBlocks": 357
+    "readingBlocks": 356
   },
   {
     "number": 26,
@@ -277,6 +277,6 @@
     "endPage": 618,
     "hasNotes": true,
     "hasImages": false,
-    "readingBlocks": 171
+    "readingBlocks": 168
   }
 ]

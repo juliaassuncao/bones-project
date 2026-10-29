@@ -60,3 +60,17 @@ Cada `NN.json` possui `number`, `title`, `slug`, `source`, `summary`, `notes`, `
 O script de importação está em `scripts/import_bones.py`. O limite de capítulos importados é deliberadamente 28, para evitar atualizações acidentais sem nova auditoria. Para adicionar capítulos além do 28, adaptar a validação de contagem, conferir títulos, preservar os capítulos existentes e registrar a mudança.
 
 Use `python scripts/check_content.py` após qualquer modificação. O relatório de importação fica em `docs/import-report.json`.
+
+## Auditoria com as fontes correspondentes
+
+A auditoria de 29/10/2026 está em [11 — Auditoria da fonte](11-auditoria-fonte.md). O PDF local `Bones.pdf` tem as mesmas 619 páginas e os mesmos 28 capítulos da cópia identificada anteriormente como `Bones(2).pdf`.
+
+Quando houver o EPUB correspondente, use-o para conferir a estrutura de parágrafos e as quebras explícitas, que o PDF não distingue de todas as quebras de paginação:
+
+```bash
+python scripts/audit_source.py "C:/caminho/Bones.pdf" "C:/caminho/Bones.epub"
+```
+
+O script exige PyMuPDF como ferramenta local, confere integralmente o texto do EPUB contra o PDF nos 28 capítulos e não escreve arquivos por padrão. Sai com erro se encontrar divergências entre os dados do site e a apresentação original. `--fix` aplica as correções somente depois de validar as duas fontes completas; também atualiza o manifesto e os relatórios de contagem. Não é necessário adicionar dependências ao site.
+
+Após uma nova importação do PDF, execute esta auditoria para recuperar a estrutura original. O importador já reconhece o link editorial “See the end of the chapter…” como limite entre notas e corpo, inclusive quando o capítulo começa com conversa, epígrafe ou imagem, sem POV.

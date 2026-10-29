@@ -12,7 +12,9 @@
 | [08 — Roadmap](08-roadmap.md) | MVP, ajustes, evolução |
 | [09 — Créditos e direitos](09-creditos-direitos.md) | Fonte, autoria, permissões, limitações |
 | [10 — Fonte por capítulo](10-indice-fonte.md) | Capítulos e páginas no PDF |
+| [11 — Auditoria da fonte](11-auditoria-fonte.md) | Notas, parágrafos, conversas e referências conferidas nos 28 capítulos |
 | `import-report.json` | Contagem de conteúdo/importação |
+| `source-audit.json` | Evidências, hashes das fontes e divergências por capítulo |
 
 ## Decisões aprovadas
 
