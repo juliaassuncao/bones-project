@@ -6,7 +6,7 @@ export type Track = {
   url?: string;
 };
 
-// Faixas cuja presença foi conferida nas notas e no texto do PDF.
+// Faixas cuja presença foi conferida nas notas e no texto das fontes originais.
 // Lista de destaques: não representa ainda um catálogo exaustivo de todas as menções.
 export const tracks: Track[] = [
   {
@@ -74,5 +74,12 @@ export const tracks: Track[] = [
     artist: "Daisy Gray",
     chapter: 26,
     note: "Versão específica indicada pela autora.",
+  },
+  {
+    title: "Creatures",
+    artist: "Shannon Saunders",
+    chapter: 29,
+    note: "Indicação musical da autora.",
+    url: "https://www.youtube.com/watch?v=Ccu85AVIfwM",
   },
 ];

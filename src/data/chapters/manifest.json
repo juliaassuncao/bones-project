@@ -267,7 +267,7 @@
     "endPage": 596,
     "hasNotes": true,
     "hasImages": false,
-    "readingBlocks": 358
+    "readingBlocks": 355
   },
   {
     "number": 28,
@@ -278,5 +278,15 @@
     "hasNotes": true,
     "hasImages": false,
     "readingBlocks": 168
+  },
+  {
+    "number": 29,
+    "title": "Internal Partings",
+    "slug": "29-internal-partings",
+    "startPage": 1,
+    "endPage": 30,
+    "hasNotes": true,
+    "hasImages": false,
+    "readingBlocks": 355
   }
 ]

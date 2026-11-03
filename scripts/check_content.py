@@ -20,7 +20,7 @@ class MarkupValidator(HTMLParser):
 
 r=pathlib.Path(__file__).resolve().parents[1]
 m=json.loads((r/'src/data/chapters/manifest.json').read_text(encoding='utf8'))
-assert len(m)==28 and [x['number'] for x in m]==list(range(1,29))
+assert len(m)==29 and [x['number'] for x in m]==list(range(1,30))
 count=0; images=0; errors=[]
 for c in m:
     dat=json.loads((r/f"src/data/chapters/{c['number']:02}.json").read_text(encoding='utf8'))
